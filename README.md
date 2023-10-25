@@ -4,7 +4,7 @@ Repository with code for a gamified online extinction learning task (underwater 
 
 <img src="./task2.gif" width="50%" height="50%"/>
 
-Play a demo version [here](https://run.pavlovia.org/agnes.norbury/study-game-2-demo/) (no data will be stored).
+Play a demo version [here](https://modcomp-ae2.web.app/) (no data will be stored).
 
 UI functionality was built using [rexUI plugins](https://rexrainbow.github.io/phaser3-rex-notes/docs/site/ui-overview/) for phaser3.
 
